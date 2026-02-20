@@ -83,7 +83,7 @@ A curated list of game development resources to make **magic** happen.
 
 #### Spritesheet Tools
 
-* :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) ⭐ 24,812 | 🐛 331 | 🌐 Java | 📅 2026-02-03 - Texture Packer built into Libgdx
+* :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) ⭐ 24,815 | 🐛 330 | 🌐 Java | 📅 2026-02-19 - Texture Packer built into Libgdx
 * :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) ⭐ 249 | 🐛 9 | 🌐 C++ | 📅 2016-11-05 - High efficient and fast 2D bin packing tool
 * :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) ⭐ 55 | 🐛 3 | 🌐 C | 📅 2022-02-16 - Creates sprite sheets from animated GIFs and more
 * :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-02-27 - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
@@ -113,7 +113,7 @@ A curated list of game development resources to make **magic** happen.
 
 #### Tile/Level Editors
 
-* :tada: [Material Maker](https://github.com/RodZill4/material-maker) ⭐ 5,132 | 🐛 293 | 🌐 GDScript | 📅 2026-02-14 - procedural texture creator made in Godot
+* :tada: [Material Maker](https://github.com/RodZill4/material-maker) ⭐ 5,132 | 🐛 294 | 🌐 GDScript | 📅 2026-02-14 - procedural texture creator made in Godot
 * :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) ⭐ 789 | 🐛 145 | 🌐 Java | 📅 2021-11-04 - a 2D level and UI editor with an engine agnostic philosophy.
 * :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 * :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
@@ -129,7 +129,7 @@ A curated list of game development resources to make **magic** happen.
 * :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 * 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
 * :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
-* :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) ⭐ 1,111 | 🐛 57 | 🌐 Game Maker Language | 📅 2026-02-18 - Powerful node-based VFX editor for pixel art
+* :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) ⭐ 1,116 | 🐛 57 | 🌐 Game Maker Language | 📅 2026-02-20 - Powerful node-based VFX editor for pixel art
 * :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 * :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
@@ -202,24 +202,24 @@ A curated list of game development resources to make **magic** happen.
 
 ### Engines and Frameworks
 
-* :tada: [Dear Imgui](https://github.com/ocornut/imgui/) ⭐ 71,423 | 🐛 1,212 | 🌐 C++ | 📅 2026-02-18 - A bloat-free immediate mode GUI for C++ with minimal dependencies.
-* :tada: [Pyxel](https://github.com/kitao/pyxel) ⭐ 17,093 | 🐛 18 | 🌐 Rust | 📅 2026-02-18 - a retro game engine for Python.
-* :tada: [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 16,742 | 🐛 317 | 🌐 C++ | 📅 2026-02-19 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-* :tada: [EnTT](https://github.com/skypjack/entt) ⭐ 12,290 | 🐛 20 | 🌐 C++ | 📅 2026-02-18 - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
-* :tada: [Nakama](https://github.com/heroiclabs/nakama) ⭐ 12,227 | 🐛 121 | 🌐 Go | 📅 2026-02-17 - Distributed server for social and realtime games and apps.
-* :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) ⭐ 12,170 | 🐛 119 | 🌐 TypeScript | 📅 2025-04-18 - State management and multiplayer networking for turn-based games.
-* :tada: [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 10,878 | 🐛 325 | 🌐 C | 📅 2026-02-17 - A single-header ANSI C immediate mode cross-platform GUI library.
-* :tada: [Flame](https://github.com/flame-engine/flame) ⭐ 10,421 | 🐛 124 | 🌐 Dart | 📅 2026-02-15 - a minimalist game engine for Flutter
-* :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) ⭐ 6,291 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - 3d javacript framework for building apps and games
+* :tada: [Dear Imgui](https://github.com/ocornut/imgui/) ⭐ 71,442 | 🐛 1,209 | 🌐 C++ | 📅 2026-02-19 - A bloat-free immediate mode GUI for C++ with minimal dependencies.
+* :tada: [Pyxel](https://github.com/kitao/pyxel) ⭐ 17,095 | 🐛 18 | 🌐 Rust | 📅 2026-02-19 - a retro game engine for Python.
+* :tada: [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 16,766 | 🐛 317 | 🌐 C++ | 📅 2026-02-20 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+* :tada: [EnTT](https://github.com/skypjack/entt) ⭐ 12,294 | 🐛 20 | 🌐 C++ | 📅 2026-02-19 - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
+* :tada: [Nakama](https://github.com/heroiclabs/nakama) ⭐ 12,228 | 🐛 121 | 🌐 Go | 📅 2026-02-17 - Distributed server for social and realtime games and apps.
+* :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) ⭐ 12,171 | 🐛 119 | 🌐 TypeScript | 📅 2025-04-18 - State management and multiplayer networking for turn-based games.
+* :tada: [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 10,883 | 🐛 325 | 🌐 C | 📅 2026-02-17 - A single-header ANSI C immediate mode cross-platform GUI library.
+* :tada: [Flame](https://github.com/flame-engine/flame) ⭐ 10,423 | 🐛 125 | 🌐 Dart | 📅 2026-02-19 - a minimalist game engine for Flutter
+* :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) ⭐ 6,293 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - 3d javacript framework for building apps and games
 * :tada: [FXGL](https://github.com/AlmasB/FXGL) ⭐ 4,759 | 🐛 150 | 🌐 Kotlin | 📅 2026-02-16 - A JavaFX/Kotlin game engine for Win/Mac/Linux.
-* :tada: [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,297 | 🐛 320 | 🌐 Rust | 📅 2026-02-03 - The cross-platform game engine in Rust.
-* :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,186 | 🐛 21 | 🌐 Batchfile | 📅 2026-02-19 - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
-* :tada: [LumixEngine](https://github.com/nem0/LumixEngine) ⭐ 3,777 | 🐛 35 | 🌐 C++ | 📅 2026-02-17 - 3D Game engine built on C++.
-* :tada: [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,437 | 🐛 256 | 🌐 C++ | 📅 2026-02-18 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+* :tada: [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,297 | 🐛 321 | 🌐 Rust | 📅 2026-02-03 - The cross-platform game engine in Rust.
+* :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,190 | 🐛 21 | 🌐 Batchfile | 📅 2026-02-20 - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+* :tada: [LumixEngine](https://github.com/nem0/LumixEngine) ⭐ 3,778 | 🐛 35 | 🌐 C++ | 📅 2026-02-17 - 3D Game engine built on C++.
+* :tada: [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,437 | 🐛 256 | 🌐 C++ | 📅 2026-02-19 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 * :tada: [Rajawali](https://github.com/Rajawali/Rajawali) ⭐ 2,419 | 🐛 190 | 🌐 Java | 📅 2023-04-13 - Android OpenGL ES 2.0/3.0 Engine
 * :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) ⚠️ Archived - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
-* :tada: [RGFW](https://github.com/ColleagueRiley/RGFW) ⭐ 1,677 | 🐛 6 | 🌐 C | 📅 2026-02-14 - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
-* :tada: [axys](https://github.com/axys1/axys) ⭐ 1,313 | 🐛 8 | 🌐 C++ | 📅 2026-02-16 - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+* :tada: [RGFW](https://github.com/ColleagueRiley/RGFW) ⭐ 1,678 | 🐛 6 | 🌐 C | 📅 2026-02-14 - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
+* :tada: [axys](https://github.com/axys1/axys) ⭐ 1,313 | 🐛 9 | 🌐 C++ | 📅 2026-02-16 - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 * :tada: [ÖbEngine](https://github.com/Sygmei/ObEngine) ⭐ 860 | 🐛 124 | 🌐 C++ | 📅 2024-04-27 - 2D Game Engine with Lua Scripting made on top of SFML !
 * :tada: [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 841 | 🐛 17 | 🌐 C# | 📅 2026-02-18 - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 * :tada: [Foster](https://github.com/FosterFramework/Foster) ⭐ 772 | 🐛 5 | 🌐 C# | 📅 2026-02-17 - A small cross-platform 2D game framework in C#.
@@ -232,16 +232,16 @@ A curated list of game development resources to make **magic** happen.
 * :tada: [Dash](https://github.com/Circular-Studios/Dash) ⭐ 428 | 🐛 33 | 🌐 D | 📅 2020-12-18 - A free and open 3D game engine written in D.
 * :tada: [ENGi](https://github.com/ajhager/engi) ⭐ 393 | 🐛 0 | 🌐 Go | 📅 2016-05-29 - A multi-platform 2D game library for Go.
 * :tada: [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) ⭐ 341 | 🐛 18 | 🌐 C# | 📅 2026-01-29 - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
-* :tada: [Screen 13](https://github.com/attackgoat/screen-13) ⭐ 330 | 🐛 7 | 🌐 Rust | 📅 2026-02-18 - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
+* :tada: [Screen 13](https://github.com/attackgoat/screen-13) ⭐ 330 | 🐛 7 | 🌐 Rust | 📅 2026-02-19 - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 * :tada: [JNGL](https://github.com/jhasse/jngl) ⭐ 316 | 🐛 9 | 🌐 C++ | 📅 2026-02-09 - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 * :tada: [Astera](https://github.com/tek256/astera) ⭐ 295 | 🐛 0 | 🌐 C | 📅 2024-07-28 - 2D C99 Cross Platform Game Library / Framework
 * :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) ⚠️ Archived 3D basic-like programming language for fast 3D desktop games.
-* :tada: [is::Engine](https://github.com/Is-Daouda/is-Engine) ⭐ 228 | 🐛 3 | 🌐 C | 📅 2025-12-29 - C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.
+* :tada: [is::Engine](https://github.com/Is-Daouda/is-Engine) ⭐ 228 | 🐛 2 | 🌐 C | 📅 2026-02-19 - C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.
 * :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) ⭐ 215 | 🐛 17 | 🌐 TypeScript | 📅 2023-03-02 - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 * :tada: [Juno](https://github.com/rxi/juno) ⚠️ Archived - Framework for making 2D games with chunky pixels in Lua
 * :tada: [Carimbo](https://github.com/willtobyte/carimbo) ⭐ 164 | 🐛 1 | 🌐 C++ | 📅 2026-02-16 - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly.
-* :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 157 | 🐛 6 | 🌐 C# | 📅 2026-02-18 - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
-* :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) ⭐ 120 | 🐛 8 | 🌐 GDScript | 📅 2026-01-11 – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
+* :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 158 | 🐛 6 | 🌐 C# | 📅 2026-02-18 - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
+* :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) ⭐ 121 | 🐛 8 | 🌐 GDScript | 📅 2026-01-11 – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
 * :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) ⭐ 84 | 🐛 5 | 🌐 C# | 📅 2019-03-12 - C# implementation of the Chipmunk2D lib.
 * :tada: [Jitter](https://github.com/mattleibow/jitterphysics) ⭐ 47 | 🐛 0 | 📅 2021-08-08 - a fast and lightweight physics engine written in C#.
 * :tada: [Lums](https://github.com/lums-proj/Lums) ⭐ 28 | 🐛 0 | 🌐 C | 📅 2015-10-02 - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
@@ -359,7 +359,7 @@ A curated list of game development resources to make **magic** happen.
 
 ### AI
 
-* :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) ⭐ 1,024 | 🐛 42 | 🌐 C# | 📅 2026-02-18 - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
+* :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) ⭐ 1,026 | 🐛 42 | 🌐 C# | 📅 2026-02-18 - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 * :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) ⚠️ Archived - C# behaviour tree library with a fluent API released under MIT.
 * :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) ⭐ 178 | 🐛 11 | 🌐 C++ | 📅 2019-11-16 - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 * :money\_with\_wings: [Coplay](https://coplay.dev?ref=github\&utm_source=magictools) - AI Copilot for Unity
@@ -379,9 +379,9 @@ A curated list of game development resources to make **magic** happen.
 
 ### Music and Audio Editors
 
-* :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,011 | 🐛 91 | 🌐 C++ | 📅 2025-08-11 - open source tracker for Mac/Linux/Windows platforms.
-* :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) ⭐ 1,838 | 🐛 35 | 🌐 C# | 📅 2025-11-21 - FamiStudio NES Music Editor.
-* :free: [FamiTracker](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) ⭐ 488 | 🐛 132 | 🌐 C | 📅 2026-01-20 - free windows tracker for producing music for the NES/Famicom-systems.
+* :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,013 | 🐛 91 | 🌐 C++ | 📅 2025-08-11 - open source tracker for Mac/Linux/Windows platforms.
+* :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) ⭐ 1,838 | 🐛 36 | 🌐 C# | 📅 2025-11-21 - FamiStudio NES Music Editor.
+* :free: [FamiTracker](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) ⭐ 489 | 🐛 132 | 🌐 C | 📅 2026-01-20 - free windows tracker for producing music for the NES/Famicom-systems.
 * :tada: [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 * :free: [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * :free: [Audiotool](http://www.audiotool.com/app) - Online music producer.
@@ -498,18 +498,18 @@ A curated list of game development resources to make **magic** happen.
 
 ### Complete Game Sources
 
-* :tada: [Doom](https://github.com/id-Software/DOOM) ⭐ 18,091 | 🐛 12 | 🌐 C++ | 📅 2024-05-24
-* :tada: [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 16,442 | 🐛 1,559 | 🌐 C# | 📅 2026-02-17
-* :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) ⭐ 7,915 | 🐛 54 | 🌐 ActionScript | 📅 2026-02-16
-* :tada: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) ⭐ 7,890 | 🐛 4 | 🌐 C | 📅 2024-08-02
-* :tada: [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 7,603 | 🐛 358 | 🌐 C++ | 📅 2026-02-18
+* :tada: [Doom](https://github.com/id-Software/DOOM) ⭐ 18,095 | 🐛 12 | 🌐 C++ | 📅 2024-05-24
+* :tada: [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
+* :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) ⭐ 7,916 | 🐛 54 | 🌐 ActionScript | 📅 2026-02-16
+* :tada: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) ⭐ 7,892 | 🐛 4 | 🌐 C | 📅 2024-08-02
+* :tada: [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 7,607 | 🐛 363 | 🌐 C++ | 📅 2026-02-19
 * :tada: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ⭐ 6,735 | 🐛 6 | 🌐 Assembly | 📅 2024-09-27
-* :tada: [Quake](https://github.com/id-Software/Quake) ⭐ 5,647 | 🐛 4 | 🌐 C | 📅 2024-06-15
-* :tada: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,488 | 🐛 155 | 🌐 C | 📅 2026-02-18
-* :tada: [Doom 3](https://github.com/id-Software/DOOM-3) ⭐ 3,480 | 🐛 0 | 🌐 C++ | 📅 2015-09-03
-* :tada: [Quake 2](https://github.com/id-Software/Quake-2) ⭐ 3,198 | 🐛 3 | 🌐 C | 📅 2023-12-05
+* :tada: [Quake](https://github.com/id-Software/Quake) ⭐ 5,651 | 🐛 4 | 🌐 C | 📅 2024-06-15
+* :tada: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,490 | 🐛 155 | 🌐 C | 📅 2026-02-18
+* :tada: [Doom 3](https://github.com/id-Software/DOOM-3) ⭐ 3,481 | 🐛 0 | 🌐 C++ | 📅 2015-09-03
+* :tada: [Quake 2](https://github.com/id-Software/Quake-2) ⭐ 3,199 | 🐛 3 | 🌐 C | 📅 2023-12-05
 * :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,454 | 🐛 1 | 📅 2012-02-06
-* :tada: [Barotrauma](https://github.com/Regalis11/Barotrauma) ⭐ 2,042 | 🐛 172 | 🌐 C# | 📅 2025-12-18
+* :tada: [Barotrauma](https://github.com/Regalis11/Barotrauma) ⭐ 2,042 | 🐛 174 | 🌐 C# | 📅 2025-12-18
 * :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios) ⭐ 1,587 | 🐛 6 | 🌐 Objective-C | 📅 2011-08-20
 * :tada: [SimCity](https://github.com/simhacker/micropolis) ⭐ 1,033 | 🐛 71 | 🌐 C | 📅 2026-02-10
 * :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
@@ -553,6 +553,6 @@ A curated list of game development resources to make **magic** happen.
 
 ### Computer Graphics
 
-* :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,406 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
+* :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,408 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
 * :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
